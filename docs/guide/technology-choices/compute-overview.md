@@ -18,12 +18,7 @@ There is a spectrum from IaaS to pure PaaS. For example, Azure VMs can auto-scal
 
 IaaS gives the most control, flexibility, and portability. FaaS provides simplicity, elastic scale, and potential cost savings, because you pay only for the time your code is running. PaaS falls somewhere between the two. In general, the more flexibility a service provides, the more you are responsible for configuring and managing the resources. FaaS services automatically manage nearly all aspects of running an application, while IaaS solutions require you to provision, configure and manage the VMs and network components you create.
 
-## Decision tree for choosing a compute option
 
-![](../images/compute-decision-tree.svg)
-
-
-<!-- 
 Here are the main compute options currently available in Azure:
 
 - [Virtual Machines](/azure/virtual-machines/) are an IaaS service, allowing you to deploy and manage VMs inside a virtual network (VNet).
@@ -43,7 +38,5 @@ When selecting a compute option, here are some factors to consider:
 - Cost. In addition to the cost of the service itself, consider the operations cost for managing a solution built on that service. For example, IaaS solutions might have a higher operations cost.
 - What are the overall limitations of each service? 
 - What kind of application architectures are appropriate for this service? 
-
--->
 
 For a more detailed comparison of compute options in Azure, see [Criteria for choosing an Azure compute option](./compute-comparison.md).
