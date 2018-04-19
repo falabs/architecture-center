@@ -53,7 +53,7 @@ The Azure Application Architecture Guide is organized as a series of steps, from
 
 > &#10148; [Azure Reference Architectures][ref-archs] show recommended deployments in Azure, along with considerations for scalability, availability, manageability, and security. Most also include deployable Resource Manager templates.
 
-**[Technology Choices][technology-choices]**. Two technology choices should be decided early on, because they affect the entire architecture. These are the choice of compute and storage technologies. The term *compute* refers to the hosting model for the computing resources that your applications runs on. Storage includes databases but also storage for message queues, caches, IoT data, unstructured log data, and anything else that an application might persist to storage. 
+**Technology Choices**. Two technology choices should be decided early on, because they affect the entire architecture. These are the choice of compute and storage technologies. The term *compute* refers to the hosting model for the computing resources that your applications runs on. Storage includes databases but also storage for message queues, caches, IoT data, unstructured log data, and anything else that an application might persist to storage. 
 
 > &#10148; [Compute options][compute-options] and [Storage options][storage-options] provide detailed comparison criteria for selecting compute and storage services.
 
