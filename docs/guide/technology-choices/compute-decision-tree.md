@@ -18,6 +18,7 @@ The flowchart guides you through a set of key decision criteria to reach a recom
 - [SLA](https://azure.microsoft.com/support/legal/sla/)
 - [Regional availability](https://azure.microsoft.com/global-infrastructure/services/)
 - Developer ecosystem and team skills
+- [Compute comparison tables](./compute-comparison.md)
 
 If your application consists of multiple workloads, evaluate each workload separately. A complete solution may incorporate two or more compute services.
 
